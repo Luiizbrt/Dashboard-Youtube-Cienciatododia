@@ -61,7 +61,7 @@ Se desejar automatizar completamente, é possível integrar com **Google Sheets*
 ---
 
 ## 🌐 Versão Online
-Veja o dashboard no [Tableau Public](https://public.tableau.com/app/profile/seu.link.aqui)
+Veja o dashboard no [Tableau Public]([https://public.tableau.com/app/profile/seu.link.aqui](https://public.tableau.com/app/profile/luiz.brito/viz/DashboardAutomatic_17627387933050/Dashboard))
 
 ---
 
