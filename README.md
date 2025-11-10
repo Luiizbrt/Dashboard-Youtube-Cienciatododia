@@ -33,7 +33,6 @@ O painel exibe as seguintes análises:
 - **Pandas** — manipulação e limpeza de dados  
 - **Matplotlib / Seaborn / Plotly** — criação das visualizações  
 - **Jupyter Notebook** — ambiente de desenvolvimento e apresentação  
-- **(Opcional)** OpenPyXL — leitura de dados Excel  
 
 ---
 
@@ -57,15 +56,9 @@ Se desejar automatizar completamente, é possível integrar com **Google Sheets*
 
 ## 👨‍💻 Autor
 **Luiz Brito**  
-📎 [LinkedIn](https://www.linkedin.com/in/luiizbrt/)  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💬 Apaixonado por dados, automação e dashboards interativos.  
+ [LinkedIn](https://www.linkedin.com/in/luiizbrt/)  
 
 ---
 
 ## 📸 Preview
-![Dashboard Preview](Captura%20de%20Tela%202025-11-09%20às%2022.01.35.png)
-
----
-
-## 📂 Estrutura do Projeto
+![Dashboard Preview](preview.png)
