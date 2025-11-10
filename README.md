@@ -60,5 +60,10 @@ Se desejar automatizar completamente, é possível integrar com **Google Sheets*
 
 ---
 
+## 🌐 Versão Online
+Veja o dashboard no [Tableau Public](https://public.tableau.com/app/profile/seu.link.aqui)
+
+---
+
 ## 📸 Preview
 ![Dashboard Preview](preview.png)
